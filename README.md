@@ -6,5 +6,5 @@ This repository provides scripts and a Flask app for creating event-driven funct
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/event-driven-vps.git
+git clone https://github.com/serverno1/Passed.git
 cd event-driven-vps
